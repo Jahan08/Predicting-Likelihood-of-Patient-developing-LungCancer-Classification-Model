@@ -7,4 +7,10 @@ The study, which was published in the journal Nature Medicine, looked at data fr
 
 The researchers found that the people in the high-pollution group were more likely to develop lung cancer than those in the low-pollution group. They also found that the risk was higher in nonsmokers than smokers, and that the risk increased with age.
 
-While this study does not prove that air pollution causes lung cancer, it does suggest that there may be a link between the two. More research is needed to confirm these findings and to determine what effect different types and levels of air pollution may have on lung cancer risk
+While this study does not prove that air pollution causes lung cancer, it does suggest that there may be a link between the two. More research is needed to confirm these findings and to determine what effect different types and levels of air pollution may have on lung cancer risk.
+
+Research Ideas:
+
+1. Predicting the likelihood of a patient developing lung cancer
+2. Identifying risk factors for lung cancer
+3. Determining the most effective treatment for a patient with lung cancer
